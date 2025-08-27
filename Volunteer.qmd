@@ -1,0 +1,16 @@
+---
+title: "Volunteering"
+format:
+  html:
+    page-layout: article
+    anchor-sections: true
+---
+
+###Volunteer:
+
+** Vancouver Fencing World Cup, Richmond BC (11/2024) 
+— Event Setup, T shirt Sales, Ticketing and Video Replay.
+
+
+
+

@@ -1,0 +1,15 @@
+---
+title: "Reflection (300–500 words)"
+format:
+  html:
+    page-layout: article
+    anchor-sections: true
+---
+As I expanded my single-page portfolio into a multi-page Quarto website, my use of large language models (LLMs) also evolved. First, I used an LLM to **brainstorm a site map** that goes beyond a résumé: Home/About, Resume/CV, Projects, Skills & Certifications, Leadership & Service, Contact, Reflection, and an Appendix. This step helped me clarify the **narrative flow** from who I am, to what I’ve done, to how I think.
+
+What worked better as more pages were added was the LLM’s strength at generating **structured outlines and first drafts** for each page. For example, initial bullet points for project write-ups saved time, allowing me to focus on **evidence** (screenshots, numbers, and links) and on polishing language. I also asked the LLM for **accessibility and usability checks** (alt text, descriptive link text, headings, and contrast considerations), which raised the overall quality.
+
+To ensure **authenticity and accuracy**, I kept a strict rule: every claim must be **mine to own**. I verified all numbers against my records and rewrote generic LLM phrasing into my **own voice**. Where the LLM suggested content I couldn’t substantiate, I removed it. I also made AI assistance clear and provided drafts in the Appendix as well. Lastly, I checked the site using the assignment rubric and course guidelines to ensure that pages, navigation, citations and reflections were included and made sense.
+
+Concisely, the LLMs shortened the ideation and drafting process when I maintained control over facts, tone, and ethics. This collaboration led to a clearer story, better organization, and a website I can maintain as my MBA journey progresses.
+

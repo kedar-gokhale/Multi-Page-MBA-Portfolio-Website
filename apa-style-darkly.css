@@ -1,0 +1,32 @@
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12pt;
+  line-height: 2;
+  color: #f8f9fa;
+  background-color: #222;
+  margin: 1in;
+}
+
+p {
+  text-indent: 0.5in;
+  margin-bottom: 1em;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  color: #66ccff;
+  text-indent: 0;
+}
+
+a {
+  color: #56b6c2;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #444;
+  margin: 2rem 0;
+}

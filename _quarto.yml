@@ -1,0 +1,41 @@
+project:
+  type: website
+  resources:
+    - assets/**           # ensure images/resume are published
+    - assets/*
+
+website:
+  title: "MBA Portfolio — Kedar Gokhale"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Resume / CV
+        href: resume.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Skills & Certifications
+        href: skills.qmd
+      - text: Volunteering
+        href: Volunteer.qmd   # <-- make sure the file name matches exactly
+      - text: Contact
+        href: contact.qmd
+      - text: Reflection
+        href: reflection.qmd
+      - text: Appendix
+        href: appendix.qmd
+  search: true
+  page-footer:
+    left: "© 2025 Kedar Gokhale"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: darkly
+    css: apa-style-darkly.css
+    toc: true
+    toc-location: left
+    smooth-scroll: true
+    code-copy: true
+    link-external-newwindow: true
+    fontsize: 12pt

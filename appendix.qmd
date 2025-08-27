@@ -1,0 +1,72 @@
+---
+title: "Appendix"
+format:
+  html:
+    page-layout: article
+    anchor-sections: true
+---
+
+This appendix highlights site maps, draft revisions, and the responsible use of LLMs in creating this portfolio. It also includes key references and the link to my earlier single-page portfolio.
+
+---
+
+## A. Site Map (LLM Draft vs. Final)
+
+**LLM Suggested Structure**  
+• Home / About  
+• Resume / CV  
+• Projects / Case Studies  
+• Skills & Certifications  
+• Contact  
+• (Optional) Volunteering
+
+**Final Structure**  
+• Home  
+• Resume  
+• Projects Undertaken  
+• Skills & Certifications  
+• Volunteering  
+• Contact  
+• Reflection  
+• Appendix  
+
+---
+
+## B. Drafts & Revisions
+
+**Home/About Page**  
+- **Initial LLM Draft:** "Results-driven and Detail-oriented Professional Pursuing MBA in Business Analytics…"  
+- **Final Version:** Simplified, quantifiable, recruiter-friendly phrasing.
+
+**Projects Page**  
+- **LLM Draft:** Rich in assignment prompt language (objectives, tasks).  
+- **Final Version:** Lean, achievement-focused bullet points instead.
+
+---
+
+## C. AI Support & Authenticity
+
+- Used LLM assistance for structure, formatting, and code snippets.  
+- Validated all data (Cisco, GE Vernova, Airbnb) against actual outputs.  
+- Final text is thoroughly edited for clear, authentic communication.
+
+---
+
+## D. References
+
+- Creating a website – Quarto. (n.d.). Retrieved from https://quarto.org/docs/websites/  
+- OpenAI (n.d.). Retrieved from https://openai.com/index/chatgpt/  
+- Spreed. (n.d.). Retrieved from https://www.spreed.chat/  
+
+---
+
+## E. Link to Single-Page Portfolio
+
+You can also explore my original, single-page portfolio here:  
+👉 [View My Single-Page Portfolio](https://kedar-gokhale.github.io/mba-portfolio/){target="_blank" rel="noopener"}
+
+---
+
+## Summary
+
+This appendix emphasises thoughtful AI use, iterative editing, and academic integrity throughout the portfolio development process.

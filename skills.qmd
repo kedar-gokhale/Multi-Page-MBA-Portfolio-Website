@@ -1,0 +1,24 @@
+---
+title: "Skills & Certifications"
+format:
+  html:
+    page-layout: article
+    anchor-sections: true
+---
+
+### Core Skills
+- **Requirements Gathering:** Microsoft Visio, 
+- **Project Mangement : **Agile/Scrum, Stakeholder Workshops  
+- **Data & Analysis:** SQL/MySQL, Python, Google Colab  
+- **Visualization:** Power BI, Tableau  
+- **Project Tools:** Asana, Slack, Teamwork, Project Libre & MS projects  
+- **Soft Skills:** Communication, Collaboration, Adaptability, Solution Focussed
+
+### Certifications
+- Cisco Certified Network Associate Security (2017) 
+- Salesforce - Certified Business Analyst (2019)    
+- Salesforce - Sales Cloud Consultant (2021)
+- Digital MArketing Institute - Certified Digital Marketing Associate (2024)
+
+
+

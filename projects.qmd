@@ -1,0 +1,39 @@
+---
+title: "Projects Undertaken"
+format:
+  html:
+    page-layout: article
+    anchor-sections: true
+---
+## Marketing Plan — J29 Immigration Services Inc.
+- Developed a **comprehensive marketing plan** for a Toronto-based immigration services firm.  
+- Conducted **market analysis, competitor benchmarking, and client segmentation**.  
+- Proposed **digital marketing strategy (SEO, social media, paid ads)** to expand brand visibility.  
+- Recommended **service differentiation and customer engagement tactics** to attract international clients.  
+
+
+## Hosting Opportunity - Analyzing Airbnb in Queens
+- This project evaluated the profitability of Airbnb hosting for a Queens property before and after renovation. 
+- Data analysis using SQL and Visualization using Tableau. 
+- The study provided **data-backed insights on pricing, ROI, and competitive positioning** to guide hosting decisions.
+
+## Financial Analysis — GE Vernova
+- Conducted a **comprehensive financial analysis** of GE Vernova using audited financial statements.  
+- Performed **ratio analysis** (profitability, liquidity, leverage, efficiency, market).  
+- Benchmarked performance against **peer industry leaders** and evaluated **3–5 year trends**.  
+- Identified strengths (diversification, energy innovation) and risks (debt exposure, margin pressures).  
+- Delivered recommendations on financial strategy and advised on **investment outlook**.
+
+
+## Predicting Salary Hike & Job Satisfaction - Machine Learning Tools & Techniques
+- Build ML model using Python -Regression, Logistic, KNN and Neural Nets to predict **% Salary Hike** and **Job Satisfaction**.  
+- Applied Exploratory Data Analysis, preprocessing, and feature engineering.  
+- Achieved strong R² and accuracy; identified **key drivers** of satisfaction and compensation.  
+- Presented findings with visualizations (residuals, ROC, feature importance). 
+
+
+
+
+
+
+

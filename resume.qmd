@@ -1,0 +1,102 @@
+---
+title: "Career Progression"
+format:
+  html:
+    page-layout: article
+    anchor-sections: true
+---
+
+<div style="display:flex; justify-content:space-between; gap:1rem;">
+  <div><strong>Part-Time Crew Member</strong> — McDonald’s, Canada</div>
+  <div><em>05/2025–Present</em></div>
+</div>
+
+- Improved **order speed +15%**, **service accuracy +12%**, and **service quality +10%**.
+
+---
+
+<div style="display:flex; justify-content:space-between; gap:1rem;">
+  <div><strong>Seasonal Sales Associate</strong> — Canadian Tire, Canada</div>
+  <div><em>04/2025–05/2025</em></div>
+</div>
+
+- Delivered **+18% sales**; reduced **stock-outs –10%**; cut **wait times –9%**.
+
+---
+
+<div style="display:flex; justify-content:space-between; gap:1rem;">
+  <div><strong>Part-Time Sales Associate</strong> — Dollar Tree, Canada</div>
+  <div><em>09/2024–Present</em></div>
+</div>
+
+- Enhanced **product visibility** and bundling, contributing to **+15% sales growth**.  
+- Reduced **stockouts –20%** through trend-based inventory management.  
+- Streamlined product exchange process, improving efficiency.
+
+---
+
+<div style="display:flex; justify-content:space-between; gap:1rem;">
+  <div><strong>Freelance Digital Marketing Consultant</strong> — India</div>
+  <div><em>08/2023–07/2024</em></div>
+</div>
+
+- Reduced **CPL –25%**; expanded customer base through optimized campaigns.  
+- Lowered CAC **–30%**; boosted Facebook page likes **+20%**.
+
+---
+
+<div style="display:flex; justify-content:space-between; gap:1rem;">
+  <div><strong>Marketing Analyst</strong> — SageSurfer, India</div>
+  <div><em>01/2023–08/2023</em></div>
+</div>
+
+- Increased **email open rate +25%** and **CTR +10%**.  
+- Boosted LinkedIn followers **+30%**; drove website traffic **+40%**.  
+- Conducted stakeholder workshops; delivered reports for clients (e.g., MediCal, California).
+
+---
+
+<div style="display:flex; justify-content:space-between; gap:1rem;">
+  <div><strong>Freelance Marketing Consultant</strong> — India</div>
+  <div><em>08/2020–01/2023</em></div>
+</div>
+
+- Produced promotions that drove **+30% sales growth** via blogs, newsletters, and case studies.
+
+---
+
+<div style="display:flex; justify-content:space-between; gap:1rem;">
+  <div><strong>Sales Analyst</strong> — PrudenSis Tech, India</div>
+  <div><em>07/2019–08/2020</em></div>
+</div>
+
+- Analyzed requirements for global clients (e.g., **JP Morgan**) and built Power BI dashboards.  
+- Increased **deal closure +12%**; improved **solution accuracy +30%**.  
+- Supported enterprise-wide full-stack development projects.
+
+---
+
+<div style="display:flex; justify-content:space-between; gap:1rem;">
+  <div><strong>Business Analyst</strong> — Media Melange, India</div>
+  <div><em>02/2018–03/2019</em></div>
+</div>
+
+- Gathered requirements, created technical specs, and oversaw app builds (Swift/React Native).  
+- Delivered training & adoption workshops, applying Agile best practices.  
+- Secured contract worth **$20K AUD**.
+
+---
+
+<div style="display:flex; justify-content:space-between; gap:1rem;">
+  <div><strong>Operations Analyst</strong> — Nokia Siemens Networks, India</div>
+  <div><em>11/2009–05/2016</em></div>
+</div>
+
+- Led a team of 5 supporting **Vodafone & Airtel**.  
+- Improved channel profitability; increased client revenue **$40K+**.  
+- Worked on optimization frameworks (HTML, CSS, React) & CI pipelines.
+
+---
+# Download Resume
+
+📄 [Download PDF Resume](assets/resume.pdf)
