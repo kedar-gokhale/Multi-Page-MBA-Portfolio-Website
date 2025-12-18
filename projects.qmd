@@ -6,18 +6,28 @@ format:
     anchor-sections: true
 ---
 
+## Developing a Digital Community platform On AWS
+- Cloud based Digital Community platform for Cofee Lovers. 
+- Design and implement a scalable Digitla communty platfom for a Cofee Shop. 
+- Feasibilty and Requirement Gathering  for building the community Platform.
+-Cost Analysis and Hands-on Implementation on AWS Cloud.
+
 ## AI Powered Multi Agent ChatBot using LLM for Ikea
 - Use of LLM (ChatGPT, Gemini) to build Customer Service Chatbot for Ikea.
 - Chatbot Assist Areas on Delivery, Sales, Refund and User Agent.
 - Understand LLM Capabilities to Tackle Real Life Business Problems.
 -  Run Statistical Tests to see if the LLM generates response is better than the human respponse.
 
-
 ## Predicting Salary Hike & Job Satisfaction - Machine Learning Tools & Techniques
 - Build ML model using Python -Regression, Logistic, KNN and Neural Nets to predict **% Salary Hike** and **Job Satisfaction**.  
 - Applied Exploratory Data Analysis, preprocessing, and feature engineering.  
 - Achieved strong R² and accuracy; identified **key drivers** of satisfaction and compensation.  
 - Presented findings with visualizations (residuals, ROC, feature importance). 
+
+## Hosting Opportunity - Analyzing Airbnb in Queens
+- This project evaluated the profitability of Airbnb hosting for a Queens property before and after renovation. 
+- Data analysis using SQL and Data Visualization using Tableau and with the Analysis of Google Colab. 
+- The study provided **data-backed insights on pricing, ROI, and competitive positioning** to guide hosting decisions.
 
 ## Financial Analysis — GE Vernova
 - Conducted a **comprehensive financial analysis** of GE Vernova using audited financial statements.  
@@ -26,20 +36,11 @@ format:
 - Identified strengths (diversification, energy innovation) and risks (debt exposure, margin pressures).  
 - Delivered recommendations on financial strategy and advised on **investment outlook**.
 
-## Hosting Opportunity - Analyzing Airbnb in Queens
-- This project evaluated the profitability of Airbnb hosting for a Queens property before and after renovation. 
-- Data analysis using SQL and Visualization using Tableau. 
-- The study provided **data-backed insights on pricing, ROI, and competitive positioning** to guide hosting decisions.
-
-
 ## Marketing Plan — J29 Immigration Services Inc.
 - Developed a **comprehensive marketing plan** for a Toronto-based immigration services firm.  
 - Conducted **market analysis, competitor benchmarking, and client segmentation**.  
 - Proposed **digital marketing strategy (SEO, social media, paid ads)** to expand brand visibility.  
 - Recommended **service differentiation and customer engagement tactics** to attract international clients.  
-
-
-
 
 
 
