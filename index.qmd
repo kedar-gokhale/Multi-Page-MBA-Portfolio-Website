@@ -8,13 +8,13 @@ format:
 
 ![](assets/headshot-placeholder.png){fig-alt="Portrait headshot placeholder. Replace with your own photo and add meaningful alt text." width="160" style="float:left; margin-right:1rem; border-radius:50%;"}
 
-Masters of Business Admnistraion • Business Analytics • Vancouver, BC  
+Masters of Business Admnistraion • Artificial Intelligence • Machine Learning • Business Analytics • Vancouver, BC  • Vancouver, BC  
 [LinkedIn](https://www.linkedin.com/in/kedar-gokhale/) • [Email](mailto:kedar-gokhale@outlook.com)
 
 ### Professional Summary
   
-  Results- driven and Detail-oriented Professional Pursuing Master of Business Administration with Business Analytics, Passionate to 
-pursue a long-term career in a business analyst role. Proven Track Record over 14 years of designing and implementing solutions, 
+  Results- driven and Detail-oriented Professional with Masters of Business Administration with specialization in **AI, ML & Business Analytics**. 
+Passionate to pursue a long-term career in a business analyst role. Proven Track Record over 14 years of designing and implementing solutions, 
 coupled with exceptional analytical and problem-solving skills. Demonstrated ability to collaborate effectively with cross functional 
 teams to achieve project objectives. Committed to leveraging technical expertise to drive business growth and enhance operational 
 efficiency. Worked with Clients across United States of America, United Kingdom, Australia, Germany, Finland and India Geo.  
