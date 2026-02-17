@@ -20,14 +20,10 @@ website:
         href: Volunteer.qmd   # <-- make sure the file name matches exactly
       - text: Contact
         href: contact.qmd
-      - text: Reflection
-        href: reflection.qmd
-      - text: Appendix
-        href: appendix.qmd
   search: true
   page-footer:
-    left: "© 2025 Kedar Gokhale"
-    right: "Built with Quarto"
+    left: "© 2026 Kedar Gokhale"
+    right: " "
 
 format:
   html:
