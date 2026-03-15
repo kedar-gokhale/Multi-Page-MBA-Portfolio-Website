@@ -6,7 +6,7 @@ format:
     anchor-sections: true
 ---
 
-![](assets/headshot-placeholder.png){fig-alt="Portrait headshot placeholder. Replace with your own photo and add meaningful alt text." width="160" style="float:left; margin-right:1rem; border-radius:50%;"}
+![](assets/headshot-placeholder.png){fig-alt="Portrait headshot placeholder. Replace with your own photo and add meaningful alt text." width="160" style="float:left; margin-right:1rem; border-radius:45%;"}
 
 Masters of Business Admnistraion • Artificial Intelligence • Machine Learning • Business Analytics • Vancouver, BC  • Vancouver, BC  
 [LinkedIn](https://www.linkedin.com/in/kedar-gokhale/) • [Email](mailto:kedar-gokhale@outlook.com)
