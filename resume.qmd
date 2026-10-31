@@ -5,12 +5,11 @@ format:
     page-layout: article
     anchor-sections: true
 ---
+
 <div style="display: flex; justify-content:space-between; gap: 1rem;">
-  <div><strong>Concierge</strong></div>
+  <div><strong>Concierge</strong> -BC Strata, North Vancouver</div>
    <div><em>01/2026–Present</em></div>
 </div>
-
-*BC Strata — North Vancouver, BC*
 
 - 163-Unit Residential Property Operations, Contractor Coordination, Key Management, Move-In/Move-Outs, Building Inspections.
 
