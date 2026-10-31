@@ -7,7 +7,7 @@ format:
 ---
 <div style="display: flex; justify-content:space-between; gap: 1rem;">
   <div><strong>Concierge</strong></div>
-  <div style="white-space: nowrap;"><em>Jan 2026 – Present</em></div>
+   <div><em>01/2026–Present</em></div>
 </div>
 
 *BC Strata — North Vancouver, BC*
