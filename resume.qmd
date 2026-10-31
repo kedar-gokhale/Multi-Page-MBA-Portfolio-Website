@@ -12,11 +12,11 @@ format:
 
 *BC Strata — North Vancouver, BC*
 
-- Support daily concierge operations for a **163-unit residential property**, coordinating contractor access, trade keys, move-ins/move-outs, loading zones, elevator protection, and common-area inspections.
+- 163-Unit Residential Property Operations, Contractor Coordination, Key Management, Move-In/Move-Outs, Building Inspections.
 
-- Respond to building emergencies, including water leaks, elevator entrapments, gate malfunctions, and fire panel alerts; escalate to the Building Manager or 24-hour emergency line.
+- Emergency Response, Incident Reporting, Fire Safety, Water Leaks, Elevator Entrapments, Security Monitoring.
 
-- Manage resident services, Enterphone/FOB access, parking issues, security cameras, building notices, maintenance reporting, and bylaw compliance.
+- Resident Services, Access Control (FOB/Enterphone), Parking Management, Maintenance Reporting, Bylaw Compliance.
 
 <div style="display:flex; justify-content:space-between; gap:1rem;">
   <div><strong>Part-Time Crew Member</strong> — McDonald’s, Canada</div>
