@@ -8,9 +8,9 @@ format:
 
 ![](assets/headshot-placeholder.png){fig-alt="Portrait headshot placeholder. Replace with your own photo and add meaningful alt text." width="160" style="float:left; margin-right:1rem; border-radius:45%;"}
 
-Master of Business Administration University Canada West
+Master of Business Administration 
+University Canada West Vancouver, BC
 Artificial Intelligence • Machine Learning • Business Analytics
-Vancouver, BC
 
 [LinkedIn](https://www.linkedin.com/in/kedar-gokhale/) • [Email](mailto:kedar-gokhale@outlook.com)
 
