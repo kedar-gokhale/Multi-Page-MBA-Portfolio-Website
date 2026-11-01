@@ -1,0 +1,153 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+/* ---------- Base ---------- */
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: clamp(1rem, 0.95rem + 0.3vw, 1.2rem);
+  line-height: 1.6;
+  color: #f8f9fa;
+  background-color: #222;
+}
+
+/* Wrap long words/URLs in the main content only (not the sidebar) */
+main,
+#quarto-document-content {
+  overflow-wrap: break-word;
+}
+
+/* ---------- Paragraphs ---------- */
+p {
+  text-indent: clamp(0.5em, 3vw, 0.5in);
+  margin: 0 0 1em;
+}
+
+/* No first-line indent for the profile header, columns, and sidebar */
+.columns p,
+.column p,
+.quarto-title-block p,
+#quarto-margin-sidebar p,
+.no-indent {
+  text-indent: 0;
+}
+
+/* ---------- Headings ---------- */
+h1, h2, h3 {
+  font-weight: bold;
+  color: #66ccff;
+  text-indent: 0;
+  line-height: 1.3;
+  margin-top: clamp(1.5em, 4vw, 2em);
+  margin-bottom: clamp(0.75em, 2vw, 1em);
+}
+
+h1 { font-size: clamp(1.75rem, 1.3rem + 2vw, 2.5rem); }
+h2 { font-size: clamp(1.25rem, 1.1rem + 1vw, 1.6rem); }
+h3 { font-size: clamp(1.1rem, 1rem + 0.6vw, 1.3rem); }
+
+/* ---------- Links and dividers ---------- */
+a {
+  color: #56b6c2;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #444;
+  margin: clamp(1.5rem, 4vw, 2rem) 0;
+}
+
+/* ---------- "On this page" sidebar ---------- */
+#quarto-margin-sidebar,
+#TOC,
+nav[role="doc-toc"] {
+  font-size: 0.85rem;
+  line-height: 1.4;
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: none;
+}
+
+#quarto-margin-sidebar a,
+#TOC a {
+  display: block;
+  padding: 0.15em 0 0.15em 0.6em;
+  text-indent: 0;
+}
+
+/* ---------- Media and wide content ---------- */
+img,
+video,
+svg {
+  max-width: 100%;
+  height: auto;
+}
+
+table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+pre,
+code {
+  max-width: 100%;
+  overflow-x: auto;
+  white-space: pre-wrap;
+}
+
+/* ---------- Tablet ---------- */
+@media (min-width: 600px) {
+  body { line-height: 1.8; }
+}
+
+/* ---------- Desktop: APA double spacing for body text only ---------- */
+@media (min-width: 992px) {
+  main p { line-height: 2; }
+
+  .columns p,
+  .column p {
+    line-height: 1.6;
+  }
+}
+
+/* ---------- Mobile: stack the photo and bio columns ---------- */
+@media (max-width: 767px) {
+  .columns {
+    display: block;
+  }
+
+  .column {
+    width: 100% !important;
+    margin-bottom: 1rem;
+  }
+
+  /* Center the profile photo when stacked */
+  .column img {
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+/* ---------- Print / PDF: strict APA ---------- */
+@media print {
+  body {
+    font-size: 12pt;
+    line-height: 2;
+    color: #000;
+    background: #fff;
+  }
+
+  p { text-indent: 0.5in; }
+  .columns p,
+  .column p { text-indent: 0; }
+
+  h1, h2, h3 { color: #000; }
+}
