@@ -1,5 +1,5 @@
 ---
-title: "Skills & Certifications"
+title: "Skills"
 format:
   html:
     page-layout: article
@@ -20,5 +20,7 @@ format:
 - Salesforce - Sales Cloud Consultant (2021)
 - Digital MArketing Institute - Certified Digital Marketing Associate (2024)
 
-
+### Licenses
+- Class 5 BC License.
+- Basic Security Training License, BC.
 
